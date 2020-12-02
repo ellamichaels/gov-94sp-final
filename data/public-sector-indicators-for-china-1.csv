@@ -1,0 +1,724 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+China,CHN,2016,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,1346716000000
+China,CHN,2015,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,1094414000000
+China,CHN,2014,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,890853999999.999
+China,CHN,2013,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,918121000000
+China,CHN,2016,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,1.81973697296222
+China,CHN,2015,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,1.59537219700087
+China,CHN,2014,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,1.38917971321758
+China,CHN,2013,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,1.54836084262902
+China,CHN,2015,Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN,24215000000
+China,CHN,2014,Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN,33500000000
+China,CHN,2013,Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN,36500000000
+China,CHN,2015,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,0.0352991991608076
+China,CHN,2014,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,0.0522392225805677
+China,CHN,2013,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,0.0615552533445583
+China,CHN,2016,Grants and other revenue (current LCU),GC.REV.GOTR.CN,1208878761695.27
+China,CHN,2015,Grants and other revenue (current LCU),GC.REV.GOTR.CN,1210535245729.34
+China,CHN,2014,Grants and other revenue (current LCU),GC.REV.GOTR.CN,947298473400
+China,CHN,2013,Grants and other revenue (current LCU),GC.REV.GOTR.CN,621724280000
+China,CHN,2012,Grants and other revenue (current LCU),GC.REV.GOTR.CN,475135000000
+China,CHN,2011,Grants and other revenue (current LCU),GC.REV.GOTR.CN,451799000000
+China,CHN,2010,Grants and other revenue (current LCU),GC.REV.GOTR.CN,419962435158.24
+China,CHN,2009,Grants and other revenue (current LCU),GC.REV.GOTR.CN,472292663600
+China,CHN,2008,Grants and other revenue (current LCU),GC.REV.GOTR.CN,477082000000
+China,CHN,2007,Grants and other revenue (current LCU),GC.REV.GOTR.CN,1966957890000
+China,CHN,2006,Grants and other revenue (current LCU),GC.REV.GOTR.CN,313070000000
+China,CHN,2005,Grants and other revenue (current LCU),GC.REV.GOTR.CN,268995800000
+China,CHN,2016,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,10.3623213907597
+China,CHN,2015,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,10.9537137427954
+China,CHN,2014,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,9.30548985881216
+China,CHN,2013,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,9.5699279039763
+China,CHN,2012,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,7.91994625968043
+China,CHN,2011,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,8.2387552048515
+China,CHN,2010,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,9.07331565204067
+China,CHN,2009,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,11.6176124890743
+China,CHN,2008,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,12.8874623572493
+China,CHN,2007,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,42.7029581209007
+China,CHN,2006,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,13.6083074702901
+China,CHN,2005,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,14.3529654962288
+China,CHN,2016,Social contributions (current LCU),GC.REV.SOCL.CN,3647922000000
+China,CHN,2015,Social contributions (current LCU),GC.REV.SOCL.CN,3381464321313.19
+China,CHN,2014,Social contributions (current LCU),GC.REV.SOCL.CN,3003895310100
+China,CHN,2016,Social contributions (% of revenue),GC.REV.SOCL.ZS,31.2694220216201
+China,CHN,2015,Social contributions (% of revenue),GC.REV.SOCL.ZS,30.5976982808333
+China,CHN,2014,Social contributions (% of revenue),GC.REV.SOCL.ZS,29.5078247563752
+China,CHN,2016,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,11666099864198.9
+China,CHN,2015,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,11051368277042.5
+China,CHN,2014,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,10179995763500
+China,CHN,2013,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,6496645390000
+China,CHN,2012,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,5999220000000
+China,CHN,2011,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,5483826000000
+China,CHN,2010,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,4628544307987.2
+China,CHN,2009,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,4064660036700
+China,CHN,2008,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,3536125000000
+China,CHN,2007,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,4519860660000
+China,CHN,2006,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,2221850000000
+China,CHN,2005,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,1802952090000
+China,CHN,2016,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,15.7637046364284
+China,CHN,2015,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,16.1100330295583
+China,CHN,2014,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,15.8744795390661
+China,CHN,2013,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,10.9562370649646
+China,CHN,2012,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,11.1389580006684
+China,CHN,2011,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,11.238725565141
+China,CHN,2010,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,11.2310787385769
+China,CHN,2009,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,11.6627076234579
+China,CHN,2008,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,11.0765381779363
+China,CHN,2007,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,16.7345039455031
+China,CHN,2006,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,10.1251615144333
+China,CHN,2005,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,9.62504082605658
+China,CHN,2005,Taxes on exports (current LCU),GC.TAX.EXPT.CN,-404894860000
+China,CHN,2005,Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS,-25.2242438200254
+China,CHN,2016,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,4053539912503.66
+China,CHN,2015,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,3902294220000
+China,CHN,2014,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,3911535720000
+China,CHN,2013,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,3766687010000
+China,CHN,2012,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,3679180000000
+China,CHN,2011,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,3407197000000
+China,CHN,2010,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,2933319162828.96
+China,CHN,2009,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,2443669999800
+China,CHN,2008,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,2105028000000
+China,CHN,2007,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,1738222520000
+China,CHN,2006,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,1306490000000
+China,CHN,2005,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,1455981640000
+China,CHN,2016,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,34.7463159041114
+China,CHN,2015,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,35.3105074609305
+China,CHN,2014,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,38.423746049332
+China,CHN,2013,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,57.9789535041869
+China,CHN,2012,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,61.3276392597704
+China,CHN,2011,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,62.1317488921056
+China,CHN,2010,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,63.3745507797583
+China,CHN,2009,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,60.1102098272202
+China,CHN,2008,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,56.8633256147911
+China,CHN,2007,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,37.7370780806937
+China,CHN,2006,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,56.7895921897956
+China,CHN,2005,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,77.6876599636969
+China,CHN,2016,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,5.96177546426479
+China,CHN,2015,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,6.21168509801266
+China,CHN,2014,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,6.67891517508045
+China,CHN,2013,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,6.97618389489224
+China,CHN,2012,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,7.51626994084145
+China,CHN,2011,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,7.68843334874483
+China,CHN,2010,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,7.8496400428685
+China,CHN,2009,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,7.75931066412201
+China,CHN,2008,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,7.34020711422266
+China,CHN,2007,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,7.1703455699287
+China,CHN,2006,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,6.66163685943117
+China,CHN,2005,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,8.79682467489585
+China,CHN,2016,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,265177350000
+China,CHN,2015,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,260781080000
+China,CHN,2014,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,288863910000
+China,CHN,2013,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,267415890000
+China,CHN,2012,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,282491000000
+China,CHN,2011,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,258888000000
+China,CHN,2010,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,205446000000
+China,CHN,2009,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,150759765600
+China,CHN,2008,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,179010000000
+China,CHN,2007,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,145076890000
+China,CHN,2006,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,115750000000
+China,CHN,2005,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,107998070000
+China,CHN,2016,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,3.89434134127694
+China,CHN,2015,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,4.03725335567661
+China,CHN,2014,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,4.63755166607496
+China,CHN,2013,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,4.55182095202637
+China,CHN,2012,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,5.11380154921444
+China,CHN,2011,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,5.14480546308674
+China,CHN,2010,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,4.88159684682341
+China,CHN,2009,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,4.19590272439355
+China,CHN,2008,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,5.55099717007987
+China,CHN,2007,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,5.49704047099416
+China,CHN,2006,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,5.82387006857827
+China,CHN,2005,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,6.72809146002044
+China,CHN,2016,Taxes on international trade (current LCU),GC.TAX.INTT.CN,265177350000
+China,CHN,2015,Taxes on international trade (current LCU),GC.TAX.INTT.CN,260781080000
+China,CHN,2014,Taxes on international trade (current LCU),GC.TAX.INTT.CN,288863910000
+China,CHN,2013,Taxes on international trade (current LCU),GC.TAX.INTT.CN,267415890000
+China,CHN,2012,Taxes on international trade (current LCU),GC.TAX.INTT.CN,282491000000
+China,CHN,2011,Taxes on international trade (current LCU),GC.TAX.INTT.CN,258888000000
+China,CHN,2010,Taxes on international trade (current LCU),GC.TAX.INTT.CN,205446000000
+China,CHN,2009,Taxes on international trade (current LCU),GC.TAX.INTT.CN,150759765600
+China,CHN,2008,Taxes on international trade (current LCU),GC.TAX.INTT.CN,179010000000
+China,CHN,2007,Taxes on international trade (current LCU),GC.TAX.INTT.CN,145076890000
+China,CHN,2006,Taxes on international trade (current LCU),GC.TAX.INTT.CN,115750000000
+China,CHN,2005,Taxes on international trade (current LCU),GC.TAX.INTT.CN,-296896790000
+China,CHN,2016,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,2.27305914647431
+China,CHN,2015,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,2.35971757942166
+China,CHN,2014,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,2.83756414747942
+China,CHN,2013,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,4.11621496859936
+China,CHN,2012,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,4.70879547674531
+China,CHN,2011,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,4.7209375352172
+China,CHN,2010,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,4.43867415605105
+China,CHN,2009,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,3.708439005455
+China,CHN,2008,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,4.83561449933386
+China,CHN,2007,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,3.14964158077656
+China,CHN,2006,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,5.03133992297594
+China,CHN,2005,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,-15.8416948621915
+China,CHN,2016,Other taxes (current LCU),GC.TAX.OTHR.CN,13597810000
+China,CHN,2015,Other taxes (current LCU),GC.TAX.OTHR.CN,15233450000
+China,CHN,2014,Other taxes (current LCU),GC.TAX.OTHR.CN,4444040000
+China,CHN,2013,Other taxes (current LCU),GC.TAX.OTHR.CN,4534470000
+China,CHN,2012,Other taxes (current LCU),GC.TAX.OTHR.CN,4861000000
+China,CHN,2011,Other taxes (current LCU),GC.TAX.OTHR.CN,299000000
+China,CHN,2010,Other taxes (current LCU),GC.TAX.OTHR.CN,2210000
+China,CHN,2009,Other taxes (current LCU),GC.TAX.OTHR.CN,3653300
+China,CHN,2008,Other taxes (current LCU),GC.TAX.OTHR.CN,10000000
+China,CHN,2007,Other taxes (current LCU),GC.TAX.OTHR.CN,5800000
+China,CHN,2016,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.116558319903717
+China,CHN,2015,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.137842207572117
+China,CHN,2014,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.0436546350631495
+China,CHN,2013,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.0697970987762347
+China,CHN,2012,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.081027200202693
+China,CHN,2011,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.00545239765083721
+China,CHN,2010,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,4.77471933494584e-05
+China,CHN,2009,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,8.98650920868024e-05
+China,CHN,2008,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.00027013097029964
+China,CHN,2007,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,0.000125918891482331
+China,CHN,2016,Tax revenue (current LCU),GC.TAX.TOTL.CN,6809299102503.66
+China,CHN,2015,Tax revenue (current LCU),GC.TAX.TOTL.CN,6459368710000
+China,CHN,2014,Tax revenue (current LCU),GC.TAX.TOTL.CN,6228801980000
+China,CHN,2013,Tax revenue (current LCU),GC.TAX.TOTL.CN,5874921110000
+China,CHN,2012,Tax revenue (current LCU),GC.TAX.TOTL.CN,5524090000000
+China,CHN,2011,Tax revenue (current LCU),GC.TAX.TOTL.CN,5032027000000
+China,CHN,2010,Tax revenue (current LCU),GC.TAX.TOTL.CN,4208581872828.96
+China,CHN,2009,Tax revenue (current LCU),GC.TAX.TOTL.CN,3593023373100
+China,CHN,2008,Tax revenue (current LCU),GC.TAX.TOTL.CN,3224826000000
+China,CHN,2007,Tax revenue (current LCU),GC.TAX.TOTL.CN,2639181770000
+China,CHN,2006,Tax revenue (current LCU),GC.TAX.TOTL.CN,1987510000000
+China,CHN,2005,Tax revenue (current LCU),GC.TAX.TOTL.CN,1605181360000
+China,CHN,2016,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.20099956990515
+China,CHN,2015,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.41608682830391
+China,CHN,2014,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.7130678520448
+China,CHN,2013,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.90773307685873
+China,CHN,2012,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,10.256767796799
+China,CHN,2011,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,10.3127944776839
+China,CHN,2010,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,10.2120475134966
+China,CHN,2009,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,10.3094430300097
+China,CHN,2008,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,10.1014269309489
+China,CHN,2007,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.77140692274456
+China,CHN,2006,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.05725398274024
+China,CHN,2005,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,8.56924385784706
+China,CHN,2016,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,2476984030000
+China,CHN,2015,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,2281059960000
+China,CHN,2014,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,2023958310000
+China,CHN,2013,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,1836283740000
+China,CHN,2012,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,1557560000000
+China,CHN,2011,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,1365643000000
+China,CHN,2010,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,1069814500000
+China,CHN,2009,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,998589954400
+China,CHN,2008,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,940778000000
+China,CHN,2007,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,755876560000
+China,CHN,2006,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,565270000000
+China,CHN,2005,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,446096510000
+China,CHN,2016,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,21.2323232171311
+China,CHN,2015,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,20.6405207284472
+China,CHN,2014,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,19.881720552938
+China,CHN,2013,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,28.2651065244612
+China,CHN,2012,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,25.9627084854364
+China,CHN,2011,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,24.9031059701748
+China,CHN,2010,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,23.1134116649566
+China,CHN,2009,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,24.5636488131585
+China,CHN,2008,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,25.4133273976555
+China,CHN,2007,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,16.4101962987375
+China,CHN,2006,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,24.5707604169383
+China,CHN,2005,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,23.8026311786953
+China,CHN,2016,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,36.3764903364174
+China,CHN,2015,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,35.313976681167
+China,CHN,2014,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,32.4935407562916
+China,CHN,2013,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,31.2563131592417
+China,CHN,2012,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,28.1957752317576
+China,CHN,2011,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,27.1390236976073
+China,CHN,2010,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,25.4198333863203
+China,CHN,2009,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,27.7924703155614
+China,CHN,2008,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,29.1729848370114
+China,CHN,2007,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,28.6405646095381
+China,CHN,2006,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,28.4411147616867
+China,CHN,2005,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,27.7910347775282
+China,CHN,2016,Interest payments (current LCU),GC.XPN.INTP.CN,340761478440.94
+China,CHN,2015,Interest payments (current LCU),GC.XPN.INTP.CN,357839940000
+China,CHN,2014,Interest payments (current LCU),GC.XPN.INTP.CN,260360270000
+China,CHN,2013,Interest payments (current LCU),GC.XPN.INTP.CN,231540610000
+China,CHN,2012,Interest payments (current LCU),GC.XPN.INTP.CN,206041000000
+China,CHN,2011,Interest payments (current LCU),GC.XPN.INTP.CN,181996000000
+China,CHN,2010,Interest payments (current LCU),GC.XPN.INTP.CN,150888430000
+China,CHN,2009,Interest payments (current LCU),GC.XPN.INTP.CN,132070250000
+China,CHN,2008,Interest payments (current LCU),GC.XPN.INTP.CN,127000000000
+China,CHN,2007,Interest payments (current LCU),GC.XPN.INTP.CN,101214720000
+China,CHN,2006,Interest payments (current LCU),GC.XPN.INTP.CN,100090000000
+China,CHN,2005,Interest payments (current LCU),GC.XPN.INTP.CN,81501130000
+China,CHN,2016,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,2.92095458128791
+China,CHN,2015,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,3.23796955299514
+China,CHN,2014,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,2.55756756730206
+China,CHN,2013,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,3.5640025905739
+China,CHN,2012,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,3.43446314687576
+China,CHN,2011,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,3.31877780221327
+China,CHN,2010,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,3.25995431737838
+China,CHN,2009,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,3.24870806618044
+China,CHN,2008,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,3.43066332280543
+China,CHN,2007,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,2.19738712829215
+China,CHN,2006,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,4.35064201201436
+China,CHN,2005,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,4.34870323920915
+China,CHN,2019,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,100
+China,CHN,2018,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,98.1
+China,CHN,2017,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,95.3
+China,CHN,2016,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,91.1
+China,CHN,2015,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,89.5
+China,CHN,2014,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,33.2
+China,CHN,2013,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,30.2
+China,CHN,2019,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,4
+China,CHN,2018,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,4
+China,CHN,2017,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,4
+China,CHN,2016,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,4
+China,CHN,2015,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,4
+China,CHN,2014,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,4
+China,CHN,2013,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,4
+China,CHN,2019,Time to prepare and pay taxes (hours),IC.TAX.DURS,138
+China,CHN,2018,Time to prepare and pay taxes (hours),IC.TAX.DURS,142
+China,CHN,2017,Time to prepare and pay taxes (hours),IC.TAX.DURS,207
+China,CHN,2016,Time to prepare and pay taxes (hours),IC.TAX.DURS,258.95
+China,CHN,2015,Time to prepare and pay taxes (hours),IC.TAX.DURS,261
+China,CHN,2014,Time to prepare and pay taxes (hours),IC.TAX.DURS,261
+China,CHN,2013,Time to prepare and pay taxes (hours),IC.TAX.DURS,318
+China,CHN,2019,Tax payments (number),IC.TAX.PAYM,7
+China,CHN,2018,Tax payments (number),IC.TAX.PAYM,7
+China,CHN,2017,Tax payments (number),IC.TAX.PAYM,9
+China,CHN,2016,Tax payments (number),IC.TAX.PAYM,9
+China,CHN,2015,Tax payments (number),IC.TAX.PAYM,9
+China,CHN,2014,Tax payments (number),IC.TAX.PAYM,9
+China,CHN,2013,Tax payments (number),IC.TAX.PAYM,9
+China,CHN,2019,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,59.2
+China,CHN,2018,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,64
+China,CHN,2017,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,66.5
+China,CHN,2016,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,68.2
+China,CHN,2015,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,67.9
+China,CHN,2014,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,68.6
+China,CHN,2013,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,68.8
+China,CHN,2018,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,100
+China,CHN,2017,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,100
+China,CHN,2016,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,100
+China,CHN,2015,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,70
+China,CHN,2014,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,70
+China,CHN,2013,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,60
+China,CHN,2012,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,60
+China,CHN,2011,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,70
+China,CHN,2010,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,60
+China,CHN,2009,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,50
+China,CHN,2008,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,50
+China,CHN,2007,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,50
+China,CHN,2006,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,30
+China,CHN,2005,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,50
+China,CHN,2004,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,50
+China,CHN,2018,Statistical Capacity score (Overall average),IQ.SCI.OVRL,77.7777666666667
+China,CHN,2017,Statistical Capacity score (Overall average),IQ.SCI.OVRL,78.8889
+China,CHN,2016,Statistical Capacity score (Overall average),IQ.SCI.OVRL,80
+China,CHN,2015,Statistical Capacity score (Overall average),IQ.SCI.OVRL,70
+China,CHN,2014,Statistical Capacity score (Overall average),IQ.SCI.OVRL,70
+China,CHN,2013,Statistical Capacity score (Overall average),IQ.SCI.OVRL,70
+China,CHN,2012,Statistical Capacity score (Overall average),IQ.SCI.OVRL,70
+China,CHN,2011,Statistical Capacity score (Overall average),IQ.SCI.OVRL,68.8888888888889
+China,CHN,2010,Statistical Capacity score (Overall average),IQ.SCI.OVRL,65.5555566666667
+China,CHN,2009,Statistical Capacity score (Overall average),IQ.SCI.OVRL,62.2222222222222
+China,CHN,2008,Statistical Capacity score (Overall average),IQ.SCI.OVRL,61.1111111111111
+China,CHN,2007,Statistical Capacity score (Overall average),IQ.SCI.OVRL,61.1111111111111
+China,CHN,2006,Statistical Capacity score (Overall average),IQ.SCI.OVRL,57.7777777777778
+China,CHN,2005,Statistical Capacity score (Overall average),IQ.SCI.OVRL,64.4444444444444
+China,CHN,2004,Statistical Capacity score (Overall average),IQ.SCI.OVRL,64.4444444444444
+China,CHN,2018,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,83.3333
+China,CHN,2017,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,86.6667
+China,CHN,2016,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,80
+China,CHN,2015,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,80
+China,CHN,2014,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,80
+China,CHN,2013,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,90
+China,CHN,2012,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,90
+China,CHN,2011,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,76.66667
+China,CHN,2010,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,76.66667
+China,CHN,2009,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,76.66667
+China,CHN,2008,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,73.33333
+China,CHN,2007,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,73.33333
+China,CHN,2006,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,73.33333
+China,CHN,2005,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,73.33333
+China,CHN,2004,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,73.33333
+China,CHN,2018,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50
+China,CHN,2017,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,50
+China,CHN,2016,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2015,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2014,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2013,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2012,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2011,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2010,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2009,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2008,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2007,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,60
+China,CHN,2006,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,70
+China,CHN,2005,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,70
+China,CHN,2004,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,70
+China,CHN,2018,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1566000000
+China,CHN,2017,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1190000000
+China,CHN,2016,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1041000000
+China,CHN,2015,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1169000000
+China,CHN,2014,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1137000000
+China,CHN,2013,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1372000000
+China,CHN,2012,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1675000000
+China,CHN,2011,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1102000000
+China,CHN,2010,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1034000000
+China,CHN,2009,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1381000000
+China,CHN,2008,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1856000000
+China,CHN,2007,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1654000000
+China,CHN,2006,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2862000000
+China,CHN,2005,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3566000000
+China,CHN,2004,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3284000000
+China,CHN,2003,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2342000000
+China,CHN,2002,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2875000000
+China,CHN,2001,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2819000000
+China,CHN,2000,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2521000000
+China,CHN,1999,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1749000000
+China,CHN,1998,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,403000000
+China,CHN,1997,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,951000000
+China,CHN,1996,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1545000000
+China,CHN,1995,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,730000000
+China,CHN,1994,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,325000000
+China,CHN,1993,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1237000000
+China,CHN,1992,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1225000000
+China,CHN,1991,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,481000000
+China,CHN,1990,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,303000000
+China,CHN,1989,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,201000000
+China,CHN,1988,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,106000000
+China,CHN,1987,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,53000000
+China,CHN,1986,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,17000000
+China,CHN,1985,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,115000000
+China,CHN,1984,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,73000000
+China,CHN,1983,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,27000000
+China,CHN,1982,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,15000000
+China,CHN,1981,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2000000
+China,CHN,1980,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,7000000
+China,CHN,1979,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,12000000
+China,CHN,1978,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,86000000
+China,CHN,1977,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,75000000
+China,CHN,1976,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3000000
+China,CHN,1975,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3000000
+China,CHN,1974,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3000000
+China,CHN,1973,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,3000000
+China,CHN,1972,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2000000
+China,CHN,1971,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2000000
+China,CHN,1970,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2000000
+China,CHN,1969,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2000000
+China,CHN,1968,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,182000000
+China,CHN,1967,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,145000000
+China,CHN,1966,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,233000000
+China,CHN,1965,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,218000000
+China,CHN,1964,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,395000000
+China,CHN,1963,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,450000000
+China,CHN,1962,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,307000000
+China,CHN,1961,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,936000000
+China,CHN,1960,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,2431000000
+China,CHN,2017,"Armed forces personnel, total",MS.MIL.TOTL.P1,2695000
+China,CHN,2016,"Armed forces personnel, total",MS.MIL.TOTL.P1,2695000
+China,CHN,2015,"Armed forces personnel, total",MS.MIL.TOTL.P1,2843000
+China,CHN,2014,"Armed forces personnel, total",MS.MIL.TOTL.P1,2993000
+China,CHN,2013,"Armed forces personnel, total",MS.MIL.TOTL.P1,2993000
+China,CHN,2012,"Armed forces personnel, total",MS.MIL.TOTL.P1,2993000
+China,CHN,2011,"Armed forces personnel, total",MS.MIL.TOTL.P1,2945000
+China,CHN,2010,"Armed forces personnel, total",MS.MIL.TOTL.P1,2945000
+China,CHN,2009,"Armed forces personnel, total",MS.MIL.TOTL.P1,2945000
+China,CHN,2008,"Armed forces personnel, total",MS.MIL.TOTL.P1,2885000
+China,CHN,2007,"Armed forces personnel, total",MS.MIL.TOTL.P1,2885000
+China,CHN,2006,"Armed forces personnel, total",MS.MIL.TOTL.P1,3605000
+China,CHN,2005,"Armed forces personnel, total",MS.MIL.TOTL.P1,3755000
+China,CHN,2004,"Armed forces personnel, total",MS.MIL.TOTL.P1,3755000
+China,CHN,2003,"Armed forces personnel, total",MS.MIL.TOTL.P1,3750000
+China,CHN,2002,"Armed forces personnel, total",MS.MIL.TOTL.P1,3770000
+China,CHN,2001,"Armed forces personnel, total",MS.MIL.TOTL.P1,3810000
+China,CHN,2000,"Armed forces personnel, total",MS.MIL.TOTL.P1,3910000
+China,CHN,1999,"Armed forces personnel, total",MS.MIL.TOTL.P1,3820000
+China,CHN,1998,"Armed forces personnel, total",MS.MIL.TOTL.P1,3820000
+China,CHN,1997,"Armed forces personnel, total",MS.MIL.TOTL.P1,3640000
+China,CHN,1996,"Armed forces personnel, total",MS.MIL.TOTL.P1,4135000
+China,CHN,1995,"Armed forces personnel, total",MS.MIL.TOTL.P1,4130000
+China,CHN,1994,"Armed forces personnel, total",MS.MIL.TOTL.P1,2930000
+China,CHN,1993,"Armed forces personnel, total",MS.MIL.TOTL.P1,3030000
+China,CHN,1992,"Armed forces personnel, total",MS.MIL.TOTL.P1,3160000
+China,CHN,1991,"Armed forces personnel, total",MS.MIL.TOTL.P1,3200000
+China,CHN,1990,"Armed forces personnel, total",MS.MIL.TOTL.P1,3500000
+China,CHN,1989,"Armed forces personnel, total",MS.MIL.TOTL.P1,3900000
+China,CHN,1985,"Armed forces personnel, total",MS.MIL.TOTL.P1,3900000
+China,CHN,2017,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.342265981416898
+China,CHN,2016,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.342731686890581
+China,CHN,2015,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.361993867826426
+China,CHN,2014,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.381837871560638
+China,CHN,2013,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.383006229846505
+China,CHN,2012,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.384393694598994
+China,CHN,2011,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.37983731641255
+China,CHN,2010,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.381353197129174
+China,CHN,2009,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.381583891217188
+China,CHN,2008,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.374320107532656
+China,CHN,2007,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.375197632914678
+China,CHN,2006,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.470592604813834
+China,CHN,2005,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.492818345922694
+China,CHN,2004,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.495927707132329
+China,CHN,2003,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.499485340295067
+China,CHN,2002,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.507064825265461
+China,CHN,2001,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.516764495339716
+China,CHN,2000,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.533211586899977
+China,CHN,1999,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.527209308283887
+China,CHN,1998,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.531980917148192
+China,CHN,1997,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.511009551269696
+China,CHN,1996,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.587177044797517
+China,CHN,1995,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.596986144216117
+China,CHN,1994,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.428918492853025
+China,CHN,1993,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.450694582377728
+China,CHN,1992,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.478358304333164
+China,CHN,1991,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.492359717307853
+China,CHN,1990,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.545610848649256
+China,CHN,2018,Military expenditure (current LCU),MS.MIL.XPND.CN,1654050876018.71
+China,CHN,2017,Military expenditure (current LCU),MS.MIL.XPND.CN,1541448275734.6
+China,CHN,2016,Military expenditure (current LCU),MS.MIL.XPND.CN,1436616720696.7
+China,CHN,2015,Military expenditure (current LCU),MS.MIL.XPND.CN,1333262168054.76
+China,CHN,2014,Military expenditure (current LCU),MS.MIL.XPND.CN,1233429980236.67
+China,CHN,2013,Military expenditure (current LCU),MS.MIL.XPND.CN,1114496105304.26
+China,CHN,2012,Military expenditure (current LCU),MS.MIL.XPND.CN,993500000000
+China,CHN,2011,Military expenditure (current LCU),MS.MIL.XPND.CN,891470218006.605
+China,CHN,2010,Military expenditure (current LCU),MS.MIL.XPND.CN,783400000000
+China,CHN,2009,Military expenditure (current LCU),MS.MIL.XPND.CN,721700000000
+China,CHN,2008,Military expenditure (current LCU),MS.MIL.XPND.CN,600100000000
+China,CHN,2007,Military expenditure (current LCU),MS.MIL.XPND.CN,517400000000
+China,CHN,2006,Military expenditure (current LCU),MS.MIL.XPND.CN,441230137680.639
+China,CHN,2005,Military expenditure (current LCU),MS.MIL.XPND.CN,376274009981.576
+China,CHN,2004,Military expenditure (current LCU),MS.MIL.XPND.CN,333991336085.088
+China,CHN,2003,Military expenditure (current LCU),MS.MIL.XPND.CN,290741844847.202
+China,CHN,2002,Military expenditure (current LCU),MS.MIL.XPND.CN,266002752458.247
+China,CHN,2001,Military expenditure (current LCU),MS.MIL.XPND.CN,230726531823.538
+China,CHN,2000,Military expenditure (current LCU),MS.MIL.XPND.CN,189824056296.058
+China,CHN,1999,Military expenditure (current LCU),MS.MIL.XPND.CN,174069587633.252
+China,CHN,1998,Military expenditure (current LCU),MS.MIL.XPND.CN,145113527002.041
+China,CHN,1997,Military expenditure (current LCU),MS.MIL.XPND.CN,133506848385.872
+China,CHN,1996,Military expenditure (current LCU),MS.MIL.XPND.CN,121081401989.404
+China,CHN,1995,Military expenditure (current LCU),MS.MIL.XPND.CN,105279918000
+China,CHN,1994,Military expenditure (current LCU),MS.MIL.XPND.CN,86623392400
+China,CHN,1993,Military expenditure (current LCU),MS.MIL.XPND.CN,72469127000
+China,CHN,1992,Military expenditure (current LCU),MS.MIL.XPND.CN,68492867000
+China,CHN,1991,Military expenditure (current LCU),MS.MIL.XPND.CN,52987117000
+China,CHN,1990,Military expenditure (current LCU),MS.MIL.XPND.CN,48239063000
+China,CHN,1989,Military expenditure (current LCU),MS.MIL.XPND.CN,42935255000
+China,CHN,2018,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.86593660065812
+China,CHN,2017,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.8965104068694
+China,CHN,2016,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.92494712446006
+China,CHN,2015,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.90708648617996
+China,CHN,2014,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.90584810515868
+China,CHN,2013,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.86694378614298
+China,CHN,2012,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.83645175975595
+China,CHN,2011,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.83415827484875
+China,CHN,2010,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.9074366626988
+China,CHN,2009,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.06268754965908
+China,CHN,2008,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.87568853278407
+China,CHN,2007,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.90431095555058
+China,CHN,2006,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.99465265061962
+China,CHN,2005,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.98886432028757
+China,CHN,2004,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.05227346805883
+China,CHN,2003,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.1020316167467
+China,CHN,2002,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.17514171475857
+China,CHN,2001,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.07394260800124
+China,CHN,2000,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.88735378338211
+China,CHN,1999,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.92205312057776
+China,CHN,1998,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.70330037386999
+China,CHN,1997,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.67480208725926
+China,CHN,1996,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.68605113779847
+China,CHN,1995,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.7163366422182
+China,CHN,1994,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.72496768849044
+China,CHN,1993,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.96190727189541
+China,CHN,1992,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.48475857240288
+China,CHN,1991,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.34690960872377
+China,CHN,1990,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.49325830326962
+China,CHN,1989,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.4801866410957
+China,CHN,2018,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,5.48539393308461
+China,CHN,2017,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,5.87561750651468
+China,CHN,2016,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,6.0337835897642
+China,CHN,2015,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,6.08881143126412
+China,CHN,2014,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,6.57988643776506
+China,CHN,2013,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,6.54267787137242
+China,CHN,2012,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,6.54536494609544
+China,CHN,2011,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,6.79029673412457
+China,CHN,2010,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,7.64204706189922
+China,CHN,2009,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,8.09191391647737
+China,CHN,2008,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,8.37597389364844
+China,CHN,2007,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,10.538021605592
+China,CHN,2006,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,10.9563325531487
+China,CHN,2005,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,10.9767121843671
+China,CHN,2004,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,11.5824835044194
+China,CHN,2003,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,11.6301389994481
+China,CHN,2002,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,11.8739566854259
+China,CHN,2001,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,11.9847977219316
+China,CHN,2000,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,11.6919131715104
+China,CHN,1999,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,12.8590858653329
+China,CHN,1998,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,13.4386774649516
+China,CHN,1997,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,14.458870509952
+China,CHN,1996,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,15.2542537671453
+China,CHN,1995,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,15.4285225654042
+China,CHN,1994,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,14.3503407534048
+China,CHN,1993,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,15.0557981206514
+China,CHN,1992,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,17.1101275024606
+China,CHN,1991,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,14.473597563474
+China,CHN,1990,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,13.9671958514538
+China,CHN,1989,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,13.3848924788169
+China,CHN,2018,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1040000000
+China,CHN,2017,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1227000000
+China,CHN,2016,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,2360000000
+China,CHN,2015,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1845000000
+China,CHN,2014,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1160000000
+China,CHN,2013,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,2047000000
+China,CHN,2012,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1515000000
+China,CHN,2011,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1252000000
+China,CHN,2010,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1478000000
+China,CHN,2009,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1140000000
+China,CHN,2008,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,644000000
+China,CHN,2007,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,509000000
+China,CHN,2006,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,668000000
+China,CHN,2005,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,286000000
+China,CHN,2004,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,413000000
+China,CHN,2003,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,700000000
+China,CHN,2002,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,525000000
+China,CHN,2001,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,515000000
+China,CHN,2000,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,299000000
+China,CHN,1999,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,332000000
+China,CHN,1998,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,353000000
+China,CHN,1997,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,429000000
+China,CHN,1996,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,768000000
+China,CHN,1995,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1010000000
+China,CHN,1994,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1105000000
+China,CHN,1993,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1436000000
+China,CHN,1992,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,700000000
+China,CHN,1991,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1312000000
+China,CHN,1990,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,941000000
+China,CHN,1989,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1041000000
+China,CHN,1988,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1411000000
+China,CHN,1987,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,2605000000
+China,CHN,1986,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1861000000
+China,CHN,1985,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1263000000
+China,CHN,1984,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1929000000
+China,CHN,1983,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1770000000
+China,CHN,1982,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1504000000
+China,CHN,1981,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,642000000
+China,CHN,1980,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,949000000
+China,CHN,1979,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,560000000
+China,CHN,1978,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,617000000
+China,CHN,1977,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,224000000
+China,CHN,1976,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,586000000
+China,CHN,1975,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,668000000
+China,CHN,1974,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,511000000
+China,CHN,1973,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,674000000
+China,CHN,1972,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1238000000
+China,CHN,1971,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1292000000
+China,CHN,1970,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,893000000
+China,CHN,1969,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,657000000
+China,CHN,1968,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,730000000
+China,CHN,1967,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,410000000
+China,CHN,1966,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,619000000
+China,CHN,1965,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,386000000
+China,CHN,1964,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,67000000
+China,CHN,1963,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,11000000
+China,CHN,1962,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,51000000
+China,CHN,1961,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,35000000
+China,CHN,1960,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,285000000
+China,CHN,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,24.9
+China,CHN,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,24.2
+China,CHN,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,23.6
+China,CHN,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,23.6
+China,CHN,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,23.4
+China,CHN,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,23.4
+China,CHN,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.3
+China,CHN,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.3
+China,CHN,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.3
+China,CHN,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.3
+China,CHN,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.3
+China,CHN,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.6
+China,CHN,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.3
+China,CHN,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.3
+China,CHN,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.2
+China,CHN,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.2
+China,CHN,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.8
+China,CHN,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.8
+China,CHN,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.8
+China,CHN,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.8
+China,CHN,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.8
+China,CHN,1990,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.3
+China,CHN,2017,Nonpregnant and nonnursing women can do the same jobs as men (1=yes; 0=no),SG.JOB.NOPN.EQ,0
+China,CHN,2015,Nonpregnant and nonnursing women can do the same jobs as men (1=yes; 0=no),SG.JOB.NOPN.EQ,0
+China,CHN,2013,Nonpregnant and nonnursing women can do the same jobs as men (1=yes; 0=no),SG.JOB.NOPN.EQ,0
+China,CHN,2011,Nonpregnant and nonnursing women can do the same jobs as men (1=yes; 0=no),SG.JOB.NOPN.EQ,0
+China,CHN,2009,Nonpregnant and nonnursing women can do the same jobs as men (1=yes; 0=no),SG.JOB.NOPN.EQ,0
+China,CHN,2017,Law prohibits or invalidates child or early marriage (1=yes; 0=no),SG.LAW.CHMR,1
+China,CHN,2015,Law prohibits or invalidates child or early marriage (1=yes; 0=no),SG.LAW.CHMR,1
+China,CHN,2018,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2017,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2016,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2015,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2014,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2013,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2012,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2011,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2010,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2009,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),SG.LAW.EQRM.WK,0
+China,CHN,2017,Law mandates paid or unpaid maternity leave (1=yes; 0=no),SG.LAW.LEVE.PU,1
+China,CHN,2015,Law mandates paid or unpaid maternity leave (1=yes; 0=no),SG.LAW.LEVE.PU,1
+China,CHN,2013,Law mandates paid or unpaid maternity leave (1=yes; 0=no),SG.LAW.LEVE.PU,1
+China,CHN,2011,Law mandates paid or unpaid maternity leave (1=yes; 0=no),SG.LAW.LEVE.PU,1
+China,CHN,2009,Law mandates paid or unpaid maternity leave (1=yes; 0=no),SG.LAW.LEVE.PU,1
+China,CHN,2017,Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no),SG.LAW.NODC.HR,1
+China,CHN,2015,Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no),SG.LAW.NODC.HR,1
+China,CHN,2013,Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no),SG.LAW.NODC.HR,1
+China,CHN,2011,Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no),SG.LAW.NODC.HR,1
+China,CHN,2009,Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no),SG.LAW.NODC.HR,1
+China,CHN,2018,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2017,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2016,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2015,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2014,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2013,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2012,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2011,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2010,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2009,Legislation exists on domestic violence (1=yes; 0=no),SG.LEG.DVAW,1
+China,CHN,2017,Mothers are guaranteed an equivalent position after maternity leave (1=yes; 0=no),SG.MMR.LEVE.EP,0
+China,CHN,2015,Mothers are guaranteed an equivalent position after maternity leave (1=yes; 0=no),SG.MMR.LEVE.EP,0
+China,CHN,2013,Mothers are guaranteed an equivalent position after maternity leave (1=yes; 0=no),SG.MMR.LEVE.EP,0
+China,CHN,2011,Mothers are guaranteed an equivalent position after maternity leave (1=yes; 0=no),SG.MMR.LEVE.EP,0
+China,CHN,2009,Mothers are guaranteed an equivalent position after maternity leave (1=yes; 0=no),SG.MMR.LEVE.EP,0
+China,CHN,2011,Nondiscrimination clause mentions gender in the constitution (1=yes; 0=no),SG.NOD.CONS,0
+China,CHN,2009,Nondiscrimination clause mentions gender in the constitution (1=yes; 0=no),SG.NOD.CONS,0
+China,CHN,2015,Battle-related deaths (number of people),VC.BTL.DETH,5
+China,CHN,2009,Battle-related deaths (number of people),VC.BTL.DETH,2
+China,CHN,2008,Battle-related deaths (number of people),VC.BTL.DETH,36
+China,CHN,2018,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,3762000
+China,CHN,2017,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,4473000
+China,CHN,2016,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,7434000
+China,CHN,2015,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,3602000
+China,CHN,2014,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,3612000
+China,CHN,2013,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,5924000
+China,CHN,2012,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,5731000
+China,CHN,2011,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,4490000
+China,CHN,2010,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,15920000
+China,CHN,2009,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,4031000
+China,CHN,2008,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,18660000
+China,CHN,2017,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,0.6
+China,CHN,2016,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,0.6
+China,CHN,2015,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,0.7
+China,CHN,2014,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,0.7
+China,CHN,2013,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,0.8
+China,CHN,2012,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,0.8
+China,CHN,2011,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,0.9
+China,CHN,2010,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1
+China,CHN,2009,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1.1
+China,CHN,2008,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1.1
+China,CHN,2007,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1.2
+China,CHN,2006,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1.4
+China,CHN,2005,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1.6
+China,CHN,2004,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1.9
+China,CHN,2003,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,1.9
+China,CHN,2002,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2
+China,CHN,2001,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2
+China,CHN,2000,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2.1
+China,CHN,1999,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2
+China,CHN,1998,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2.1
+China,CHN,1997,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2.1
+China,CHN,1996,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2
+China,CHN,1995,"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,2.2
